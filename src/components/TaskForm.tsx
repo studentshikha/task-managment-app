@@ -42,8 +42,8 @@ import React, { useEffect} from 'react';
     }, []);
 
  return (
- <div className="flex flex-col container px-4 py-10 space-y-5 ">
-     <h1 className="text-2xl font-semibold text-center -mt-20">Task Managment App</h1>
+ <div className="flex flex-col container mx-auto  px-4 py-10 space-y-5 ">
+     <h1 className="text-2xl font-semibold text-center">Task Managment App</h1>
 
       <Form
       form={form}

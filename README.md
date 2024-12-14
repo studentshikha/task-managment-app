@@ -13,9 +13,9 @@ This is simple Task Managment application built using React, Ant Design, Tailwin
 ## Installation 
 
 **Clone the repository**:
- ```bash git clone https://github.com/studentshikha/task-managment.git ``` 
+ ```bash git clone https://github.com/studentshikha/task-managment-app.git ``` 
 **Navigate to the project directory**: 
-  ```bash cd task-managment ``` 
+  ```bash cd task-managment-app ``` 
   
  **Install dependencies**: 
  ```bash npm install ``` 

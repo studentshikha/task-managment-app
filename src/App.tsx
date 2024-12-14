@@ -120,7 +120,7 @@ const columns = [
  return (
 <div 
     className="bg-gray-100"
-    style={{ padding: '80px' }}
+
     >
       <div ref={formRef}>
    <TaskForm
